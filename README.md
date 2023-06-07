@@ -1,0 +1,1 @@
+MarsRoverPathfinder is a software that simulates Mars rovers' movements, taking into account variables like terrain, power consumption, and communication constraints, and assists in path planning for the most efficient and safest routes.
